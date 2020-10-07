@@ -9,7 +9,7 @@ ________________
 
 ___________________________
 
->> - <carlo.a.pasquinucci@gmail.com> 
+>> - <carlo.a.pasquinucci@gmail.com>
 >> - [LinkedIn Profile](Linkedin.com/in/carloaugustopasquinucci)  
 >> - [Xing Profile](https://www.xing.com/profile/CarloAugusto_Pasquinucci/cv)
 >> - [GitHub Repositories](github.com/Carlopasquinucci)  
